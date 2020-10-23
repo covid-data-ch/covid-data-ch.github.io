@@ -1,0 +1,108 @@
+{
+    "TUTORIAL": {
+      "SLIDE1": {
+        "title": "Benvenuti a COVID-Data CH",
+        "text": "Bitte wähle deine Sprache aus. Choissisez votre language. Si prega di selezionare la lingua"
+      },
+      "SLIDE2": {
+        "title": "Essere informati.",
+        "text": "Il virus corona non è un problema che dovrebbe essere tenuto nascosto. Pertanto si dovrebbe essere autorizzati a informarsi. Non è un segreto che l'informazione è uno dei modi migliori per prevenire l'infezione",
+        "button": "Avanti"
+      },
+      "SLIDE3": {
+        "title": "Fonti sicure",
+        "text": "È importante che vengano diffuse informazioni corrette. Per questo motivo questa applicazione utilizza un'interfaccia che utilizza i dati elaborati del Cantone di Zurigo (openZH)",
+        "button": "Avanti"
+      },
+      "SLIDE4": {
+        "title": "Pronti?!",
+        "text": "E ricordate sempre: Rimanete in salute - #salutate!",
+        "button": "Andiamo!"
+      }
+    },
+    "TABS": {
+      "firstTab": "A livello nazionale",
+      "secondTab": "Cantoni",
+      "ThirdTab": "Controllo dei sintomi",
+      "fourthTab": "About l'App"
+    },
+    "APP": {
+      "title": "COVID-Data CH",
+      "darkMode": "Darkmode",
+      "tutorial": "Replay Tutorial",
+      "caricamento": "Caricamento dati...",
+      "unknownData": "Sconosciuto",
+      "refreshedAt": "Aggiornato",
+      "atTime": "atTime",
+      "tapForSource": "Mostra la fonte"
+    },
+    "SWITZERLAND": {
+      "title": "Cifre attuali della Svizzera",
+      "totalsTitle": "Numeri di casi precedenti",
+      "totalsDescription": "Queste cifre si riferiscono ai dati raccolti dal 1° giugno 2020",
+      "changesTitle": "I numeri dei casi di oggi",
+      "changesDescription": "Infezioni e casi appena segnalati oggi.",
+      "caseTotals": "Casi confermati",
+      "fatalityTotals": "Morti confermate",
+      "testTotals": "Test eseguiti",
+      "releasedTotals": "Guarigioni confermate",
+      "casesChanged": "Casi appena confermati",
+      "fatalityChanged": "Nuovi decessi segnalati",
+      "hospitalizedDisclaimer": "Pazienti ospedalizzati",
+      "completionDisclaimer": "Alcuni cantoni non aggiornano quotidianamente i numeri dei casi. È quindi possibile che questi dati non corrispondano a quelli dell'UFSP",
+      "todayUpdated": "Aggiornato oggi:",
+      "partInICU": "Da lì alla terapia intensiva",
+      "partWithVent": "Di cui con l'aiuto respiratorio"
+    },
+    "CANTONS": {
+      "title": "Cifre dei cantoni",
+      "AG": "Aargau",
+      "AI": "Appenzello interno di Rodi",
+      "AR": "Appenzell Ausserrhoden",
+      "BE": "Berna",
+      "BL": "Basel Land",
+      "BS": "Basel City",
+      "FR": "Friburgo",
+      "FL": "Principato del Liechtenstein",
+      "GE": "Ginevra",
+      "GL": "Glarona",
+      "GR": "Grigioni",
+      "JU": "Jura",
+      "LU": "Lucerna",
+      "NE": "Neuchâtel",
+      "NW": "Nidvaldo",
+      "OW": "Obvaldo",
+      "SH": "Sciaffusa",
+      "SZ": "Svitto",
+      "SO": "Solothurn",
+      "SG": "San Gallo",
+      "TG": "Turgovia",
+      "TI": "Ticino",
+      "UR": "Uri",
+      "VS": "Vallese",
+      "VD": "Vaud",
+      "ZG": "Zug",
+      "ZH": "Zurigo",
+      "hospitalized": "Ricoverato",
+      "atICU": "Unità di Terapia Intensiva",
+      "withHelp": "Con ventilatore",
+      "inQuarantine": "In quarantena",
+      "deaths": "finora deceduto"
+    },
+    "SYMPTOMS": {
+      "title": "controllo dei sintomi",
+      "nonReadyTitle": "Manca ancora una vite!",
+      "notReadyText": "Per garantire il corretto funzionamento di questa funzione, si stanno ancora effettuando i test finali. Per la vostra sicurezza!"
+    },
+    "SOURCE": {
+      "data": "fonte di dati",
+      "images": "fonte di immagini"
+    },
+    "ABOUT": {
+      "title": "A proposito dell'app",
+      "text": "Lo scopo di questa app è quello di mostrare a tutti gli utenti gli ultimi numeri dei casi in modo semplice e chiaro. E questo è aggiornato: grazie ai costanti aggiornamenti del set di dati di openZH, le cifre sono sempre aggiornate",
+      "creatorText": "L'app è stata sviluppata da Dominik P. (@herbertvonkaramalz) e viene fornita con dati che utilizzano le API di @APfeuti e il dataset di Daniel Probst (@daenuprobst) tra gli altri",
+      "disclaimer": "È possibile che le cifre non corrispondano a quelle dell'UFSP. Ciò è dovuto al fatto che i dati sono ottenuti direttamente dai singoli Cantoni. Non ci si assume alcuna responsabilità per l'esattezza e la tempestività dei dati"
+    }
+  }
+  

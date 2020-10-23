@@ -1,0 +1,107 @@
+{
+  "TUTORIAL": {
+    "SLIDE1": {
+      "title": "Willkommen bei COVID-Data CH",
+      "text": "Bitte wähle deine Sprache aus. Choissisez votre language. Please select your language."
+    },
+    "SLIDE2": {
+      "title": "Sei informiert.",
+      "text": "Das Corona-Virus ist kein Thema, welches stillgeschwiegen werden sollte. Daher sollst Du dich auch informieren dürfen. Es ist auch kein Geheimnis, dass Information eine der besten Präventionsmassnahmen vor einer Infektion ist.",
+      "button": "Weiter"
+    },
+    "SLIDE3": {
+      "title": "Sichere Quellen.",
+      "text": "Es ist wichtig, dass korrekte Informationen verbreitet werden. Daher nutzt diese App eine Schnittstelle, welche die Aufbereiteten Daten des Kantons Zürich (openZH) nutzt.",
+      "button": "Weiter"
+    },
+    "SLIDE4": {
+      "title": "Bereit?!",
+      "text": "Und immer daran Denken: Bleib Gesund - #stayhealthy!",
+      "button": "Los geht's!"
+    }
+  },
+  "TABS": {
+    "firstTab": "Schweizweit",
+    "secondTab": "Kantone",
+    "thirdTab": "Symptom-Check",
+    "fourthTab": "Über die App"
+  },
+  "APP": {
+    "title": "COVID-Data CH",
+    "darkMode": "Dunkles Design",
+    "tutorial": "Tutorial nochmals anzeigen",
+    "loading": "Daten werden geladen...",
+    "unknownData": "Unbekannt",
+    "refreshedAt": "Aktualisiert am ",
+    "atTime": "um",
+    "tapForSource": "Quelle ansehen"
+  },
+  "SWITZERLAND": {
+    "title": "Aktuelle Zahlen für die Schweiz",
+    "totalsTitle": "Bisherige Fallzahlen",
+    "totalsDescription": "Diese Zahlen beziehen sich auf die seit dem 1. Juni 2020 erfassten Daten.",
+    "changesTitle": "Heutige Fallzahlen",
+    "changesDescription": "Heute neu gemeldete Infektionen und Fälle.",
+    "caseTotals": "Bestätigte Fälle",
+    "fatalityTotals": "Bestätigte Todesfälle",
+    "testTotals": "Durchgeführte Tests",
+    "releasedTotals": "Bestätigte Heilungen",
+    "casesChanged": "Neu bestätigte Fälle",
+    "fatalityChanged": "Neu gemeldete Todesfälle",
+    "hospitalizedChanged": "Hospitalisierte Patienten",
+    "completionDisclaimer": "Einige Kantone aktualisieren die Fallzahlen nicht täglich. Daher ist es möglich, dass diese Daten nicht mit denen des BAG übereinstimmen.",
+    "todayUpdated": "Heute aktualisiert: ",
+    "partInICU": "Davon auf Intensivstation",
+    "partWithVent": "Davon mit Beatmungshilfe"
+  },
+  "CANTONS": {
+      "title": "Zahlen aus den Kantonen",
+      "AG": "Aargau",
+      "AI": "Appenzell Innerrhoden",
+      "AR": "Appenzell Ausserrhoden",
+      "BE": "Bern",
+      "BL": "Basel Land",
+      "BS": "Basel Stadt",
+      "FR": "Fribourg",
+      "FL": "Fürstentum Lichtenstein",
+      "GE": "Genf",
+      "GL": "Glarus",
+      "GR": "Graubünden",
+      "JU": "Jura",
+      "LU": "Luzern",
+      "NE": "Neuenburg",
+      "NW": "Nidwalden",
+      "OW": "Obwalden",
+      "SH": "Schaffhausen",
+      "SZ": "Schwyz",
+      "SO": "Solothurn",
+      "SG": "St. Gallen",
+      "TG": "Thurgau",
+      "TI": "Tessin",
+      "UR": "Uri",
+      "VS": "Wallis",
+      "VD": "Waadt",
+      "ZG": "Zug",
+      "ZH": "Zürich",
+      "hospitalized": "Hospitalisiert",
+      "atICU": "Auf Intensivstation",
+      "withHelp": "Mit Beatmungshilfe",
+      "inQuarantine": "In Quarantäne",
+      "deaths": "Bisher verstorben"
+  },
+  "SYMPTOMS": {
+    "title": "Symptom-Check",
+    "notReadyTitle": "Da fehlt noch eine Schraube!",
+    "notReadyText": "Damit diese Funktion auch korrekt funktioniert, werden noch letzte Tests durchgeführt. Für deine Sicherheit!"
+  },
+  "SOURCE": {
+    "data": "Datenquelle",
+    "images": "Bildquelle"
+  },
+  "ABOUT": {
+    "title": "Über die App",
+    "text": "Ziel dieser App ist es, allen die aktuellsten Fallzahlen einfach und anschaulich zu zeigen. Und dies aktuell: Durch ständige Updates des openZH-Datensatzes sind die Zahlen stets Up to Date!",
+    "creatorText": "Die App wurde von Dominik P. (@herbertvonkaramalz) entwickelt und wird unter anderem mit der API von @APfeuti und dem Dataset von Daniel Probst (@daenuprobst) mit Daten versorgt.",
+    "disclaimer": "Es ist möglich, dass die Zahlen nicht mit denen des BAG übereinstimmen. Dies aus dem Grund, da die Daten direkt von einzelnen Kantonen bezogen werden. Für die korrektheit sowie aktualität der Daten wird keine Haftung übernommen."
+  }
+}

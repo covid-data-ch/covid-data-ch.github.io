@@ -1,0 +1,107 @@
+{
+  "TUTORIAL": {
+    "SLIDE1": {
+      "title": "Welcome to COVID-Data CH",
+      "text": "Bitte wähle deine Sprache aus. Choissisez votre language. Please select your language."
+    },
+    "SLIDE2": {
+      "title": "Be informed.",
+      "text": "The corona virus is not an issue that should be kept quiet. Therefore you should be allowed to inform yourself. It is also no secret that information is one of the best ways of preventing infection.",
+      "button": "Next"
+    },
+    "SLIDE3": {
+      "title": "Secure Sources.",
+      "text": "It is important that correct information is disseminated. Therefore this app uses an interface that uses the processed data of the Canton of Zurich (openZH).",
+      "button": "Next"
+    },
+    "SLIDE4": {
+      "title": "Ready?!",
+      "text": "And always remember: Stay healthy - #stayhealthy!",
+      "button": "Let's Go!"
+    }
+  },
+  "TABS": {
+    "firstTab": "Nationwide",
+    "secondTab": "Cantons",
+    "thirdTab": "Symptom Check",
+    "fourthTab": "Abou the App"
+  },
+  "APP": {
+    "title": "COVID-Data CH",
+    "darkMode": "Darkmode",
+    "tutorial": "Replay Tutorial",
+    "loading": "Loading Data...",
+    "unknownData": "Unknown",
+    "refreshedAt": "Updated: ",
+    "atTime": "at",
+    "tapForSource": "Show source"
+  },
+  "SWITZERLAND": {
+    "title": "Current figures for Switzerland",
+    "totalsTitle": "Previous case numbers",
+    "totalsDescription": "These figures refer to data collected since 1 June 2020.",
+    "changesTitle": "Today's case numbers",
+    "changesDescription": "Newly reported infections and cases today.",
+    "caseTotals": "Confirmed Cases",
+    "fatalityTotals": "Confirmed deaths",
+    "testTotals": "Tests performed",
+    "releasedTotals": "Confirmed healings",
+    "casesChanged": "Newly confirmed cases",
+    "fatalityChanged": "Newly reported deaths",
+    "hospitalizedChanged": "Hospitalized patients",
+    "completionDisclaimer": "Some cantons do not update the case numbers on a daily basis. It is therefore possible that these data do not correspond to those of the FOPH.",
+    "todayUpdated": "Updated today:",
+    "partInICU": "From there to intensive care",
+    "partWithVent": "Of which with respiratory aid"
+  },
+  "CANTONS": {
+    "title": "Figures from the cantons",
+    "AG": "Aargau",
+    "AI": "Appenzell Inner Rhodes",
+    "AR": "Appenzell Ausserrhoden",
+    "BE": "Bern",
+    "BL": "Basel Land",
+    "BS": "Basel City",
+    "FR": "Fribourg",
+    "FL": "Principality of Liechtenstein",
+    "GE": "Geneva",
+    "GL": "Glarus",
+    "GR": "Graubünden",
+    "JU": "Jura",
+    "LU": "Lucerne",
+    "NE": "Neuchâtel",
+    "NW": "Nidwalden",
+    "OW": "Obwalden",
+    "SH": "Schaffhausen",
+    "SZ": "Schwyz",
+    "SO": "Solothurn",
+    "SG": "St. Gallen",
+    "TG": "Thurgau",
+    "TI": "Ticino",
+    "UR": "Uri",
+    "VS": "Valais",
+    "VD": "Vaud",
+    "ZG": "Zug",
+    "ZH": "Zurich",
+    "hospitalized": "Hospitalized",
+    "atICU": "Intensive Care Unit",
+    "withHelp": "With ventilator",
+    "inQuarantine": "In quarantine",
+    "deaths": "deceased so far"
+  },
+  "SYMPTOMS": {
+    "title": "symptom check",
+    "notReadyTitle": "There's still a screw missing!",
+    "notReadyText": "To ensure that this function works correctly, final tests are still being carried out. For your safety!"
+  },
+  "SOURCE": {
+    "data": "data source",
+    "images": "image source"
+  },
+  "ABOUT": {
+    "title": "About the app",
+    "text": "The aim of this app is to show everyone the latest case numbers in a simple and clear way. And this is up-to-date: Due to constant updates of the openZH data set, the figures are always up to date",
+    "creatorText": "The app was developed by Dominik P. (@herbertvonkaramalz) and is supplied with data using the API of @APfeuti and the dataset of Daniel Probst (@daenuprobst) among others",
+    "disclaimer": "It is possible that the figures do not correspond to those of the FOPH. This is because the data are obtained directly from individual cantons. No liability is accepted for the accuracy and timeliness of the data."
+  }
+}

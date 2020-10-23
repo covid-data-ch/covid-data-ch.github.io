@@ -1,0 +1,107 @@
+{
+    "TUTORIAL" : {
+      "SLIDE1" : {
+        "title" : "Bienvenue à COVID-Data CH",
+        "text" : "Bitte wähle deine Sprache aus. Choissisez votre langue. Veuillez choisir votre langue"
+      },
+      "SLIDE2" : {
+        "title" : "Être informé",
+        "text" : "Le virus corona n'est pas un sujet qu'il faut taire. C'est pourquoi vous devriez être autorisé à vous informer. Ce n'est pas non plus un secret que l'information est l'un des meilleurs moyens de prévenir l'infection",
+        "button" : "Suivant"
+      },
+      "SLIDE3" : {
+        "title" : "Sources sûres",
+        "text" : "Il est important que des informations correctes soient diffusées. C'est pourquoi cette application utilise une interface qui utilise les données traitées du canton de Zurich (openZH)",
+        "button" : "Suivant"
+      },
+      "SLIDE4" : {
+        "title" : "Prêt ?!",
+        "text" : "Et n'oubliez jamais : Restez en bonne santé - #stayhealthy !",
+        "button" : "Allons-y !"
+      }
+    },
+    "TABS" : {
+      "firstTab" : "Suisse",
+      "secondTab" : "Cantons",
+      "thirdTab" : "Symptom Check",
+      "fourthTab" : "Par l'App"
+    },
+    "APP" : {
+      "title" : "COVID-Data CH",
+      "darkMode" : "Mode obscur",
+      "tutorial" : "Replay Tutorial",
+      "chargement" : "Chargement des données...",
+      "unknownData" : "inconnues",
+      "refreshedAt" : "Mis à jour",
+      "atTime" : "à",
+      "tapForSource" : "montrer la source"
+    },
+    "SWITZERLAND" : {
+      "title" : "Chiffres actuels pour la Suisse",
+      "totalsTitle" : "Numéros des affaires précédentes",
+      "totalsDescription" : "Ces chiffres se réfèrent aux données collectées depuis le 1er juin 2020",
+      "changesTitle" : "Numéros des affaires d'aujourd'hui",
+      "changesDescription" : "Infections et cas nouvellement signalés aujourd'hui",
+      "caseTotals" : "Cas confirmés",
+      "fatalityTotals" : "Décès confirmés",
+      "testTotals" : "Tests effectués",
+      "releasedTotals" : "guérisons confirmées",
+      "affairesChangé" : "cas nouvellement confirmés",
+      "fatalityChanged" : "Décès récemment signalés",
+      "HospitalizedChanged" : "patients hospitalisés",
+      "completionDisclaimer" : "Certains cantons ne mettent pas à jour les numéros de dossier quotidiennement. Il est donc possible que ces données ne correspondent pas à celles de l'OFSP",
+      "todayUpdated" : "Mise à jour aujourd'hui :",
+      "partInICU" : "De là aux soins intensifs",
+      "partWithVent" : "Dont avec assistance respiratoire"
+    },
+    "CANTONS" : {
+      "title" : "Chiffres des cantons",
+      "AG" : "Argovie",
+      "AI" : "Appenzell Rhodes-Intérieures",
+      "AR" : "Appenzell Rhodes-Extérieures",
+      "BE" : "Berne",
+      "BL" : "Basel Land",
+      "BS" : "Basel City",
+      "FR" : "Fribourg",
+      "FL" : "Principauté du Liechtenstein",
+      "GE" : "Genève",
+      "GL" : "Glarus",
+      "GR" : "Grisons",
+      "JU" : "Jura",
+      "LU" : "Lucerne",
+      "NE" : "Neuchâtel",
+      "NW" : "Nidwalden",
+      "OW" : "Obwald",
+      "SH" : "Schaffhausen",
+      "SZ" : "Schwyz",
+      "SO" : "Soleure",
+      "SG" : "St. Gallen",
+      "TG" : "Thurgovie",
+      "TI" : "Tessin",
+      "UR" : "Uri",
+      "VS" : "Valais",
+      "VD" : "Vaud",
+      "ZG" : "Zug",
+      "ZH" : "Zurich",
+      "hospitalized" : "Hospitalisé",
+      "atICU" : "Unité de soins intensifs",
+      "withHelp" : "Avec ventilateur",
+      "inQuarantine" : "En quarantaine",
+      "deaths" : "décédé jusqu'à présent"
+    },
+    "SYMPTOMS" : {
+      "title" : "contrôle des symptômes",
+      "notReadyTitle" : "Il manque encore une vis !",
+      "notReadyText" : "Pour s'assurer que cette fonction fonctionne correctement, des tests finaux sont encore en cours. Pour votre sécurité !"
+    },
+    "SOURCE" : {
+      "data" : "source de données",
+      "images" : "source de l'image"
+    },
+    "ABOUT" : {
+      "title" : "A propos de l'application",
+      "text" : "L'objectif de cette application est de montrer à chacun les derniers numéros d'affaires de manière simple et claire. Et c'est à jour : grâce aux mises à jour constantes de l'ensemble des données d'openZH, les chiffres sont toujours à jour",
+      "creatorText" : "L'application a été développée par Dominik P. (@herbertvonkaramalz) et est fournie avec des données utilisant l'API de @APfeuti et l'ensemble de données de Daniel Probst (@daenuprobst) entre autres",
+      "disclaimer" : "Il est possible que les chiffres ne correspondent pas à ceux de l'OFSP. Cela est dû au fait que les données sont obtenues directement auprès des différents cantons. Nous déclinons toute responsabilité quant à l'exactitude et à l'actualité des données"
+    }
+  }
